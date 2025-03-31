@@ -75,3 +75,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+# this is written with the new keyb0oar

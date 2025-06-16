@@ -1,4 +1,6 @@
-numpy 
 opencv-python
 mediapipe
+pygame
+streamlit
 pyautogui
+numpy
